@@ -1,0 +1,9 @@
+        =================================
+            This game has for goal to find 
+              the hidden radom value.
+
+           You can try unlimitedly for
+             finding the hidden value.
+
+                    Good luck !
+        =================================
